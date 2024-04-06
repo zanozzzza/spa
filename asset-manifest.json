@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spa/static/css/main.975897d1.css",
+    "main.js": "/spa/static/js/main.05978831.js",
+    "static/media/povar.jpg": "/spa/static/media/povar.4167e50cbbb533c11d98.jpg",
+    "static/media/povar2.jpg": "/spa/static/media/povar2.ef4b4401d698a4c3f6c3.jpg",
+    "index.html": "/spa/index.html",
+    "main.975897d1.css.map": "/spa/static/css/main.975897d1.css.map",
+    "main.05978831.js.map": "/spa/static/js/main.05978831.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.975897d1.css",
+    "static/js/main.05978831.js"
+  ]
+}
